@@ -1,0 +1,14 @@
+body{
+    color: #000000
+
+}
+
+h1{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+    animation-name: 404;
+    animation-duration: 4s;
+    animation-direction: reverse;
+}
